@@ -92,7 +92,7 @@ export default function Hero() {
           radius="xl"
           className={classes.control}
         >
-          Lássuk hozzá!
+          Lássunk hozzá!
         </Button>
 
         <Text color="red" mt="lg">
