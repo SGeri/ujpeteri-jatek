@@ -7,6 +7,7 @@ import {
   Text,
 } from "@mantine/core";
 import HeroImage from "@images/hero_bg.jpg";
+import Link from "next/link";
 
 const useStyles = createStyles((theme) => ({
   hero: {
@@ -86,14 +87,16 @@ export default function Hero() {
           nyereményeket nyerhetnek. Ajánljuk egyaránt időseknek és fialoknak is!
         </Text>
 
-        <Button
-          variant="gradient"
-          size="xl"
-          radius="xl"
-          className={classes.control}
-        >
-          Lássunk hozzá!
-        </Button>
+        <Link href="/start">
+          <Button
+            variant="gradient"
+            size="xl"
+            radius="xl"
+            className={classes.control}
+          >
+            Lássunk hozzá!
+          </Button>
+        </Link>
 
         <Text color="red" mt="lg">
           Fontos: Háttér cseréje a táblára a helyszínre, ahonnan a játékot

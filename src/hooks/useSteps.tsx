@@ -2,7 +2,7 @@
 
 const steps = [
   {
-    name: "Step 1",
+    name: "Sportkastély",
     description: "blabla",
     text: "the bro is a bro",
     hash: "6e8c8c4939c002637d478d207fd85e3c",
