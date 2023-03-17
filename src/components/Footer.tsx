@@ -33,7 +33,7 @@ export default function Footer() {
   return (
     <div className={classes.footer}>
       <Container className={classes.inner}>
-        <Text size={16} fw={700}>
+        <Text fw={700} className="text-sm md:text-lg">
           Újpéteri kincskeresés
         </Text>
         <Group spacing="md" className={classes.links} position="right" noWrap>
