@@ -21,10 +21,10 @@ export default function Start() {
       </p>
 
       <p className="text-center">
-        Most pedig keressétek meg az isten kínköves péniszét!
+        Most pedig keressétek meg az első nyomot!
         <br />
-        Ha megtaláltátok a játék tábláját, olvassátok be az ott található QR
-        kódot, amin vissza fog navigálni bennetek erre az oldalra!
+        Azt megtalálhatjátok az Országzászlónál. Ha odaértetek, figyelmesen
+        keressetek egy QR kódot a zászlótól csupán néhány lépésre!
       </p>
     </div>
   );
