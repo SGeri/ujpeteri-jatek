@@ -16,7 +16,9 @@ export default function Start() {
         dummy text ever since the 1500s, when an
       </p>
 
-      <p className="text-xl">"Ez most egy idézet és írott betűvel van."</p>
+      <p className="text-xl">
+        &quot;Ez most egy idézet és írott betűvel van.&quot;
+      </p>
 
       <p className="text-center">
         Most pedig keressétek meg az isten kínköves péniszét!
