@@ -1,4 +1,5 @@
 import { createStyles, Container, Group, Text, Button } from "@mantine/core";
+import Link from "next/link";
 
 const useStyles = createStyles((theme) => ({
   footer: {
@@ -36,9 +37,14 @@ export default function Footer() {
         <Text fw={700} className="text-sm md:text-lg">
           Újpéteri kincskeresés
         </Text>
+        <Text className="text-sm">Hivatkozások</Text>
         <Group spacing="md" className={classes.links} position="right" noWrap>
-          <Button size="sm">Indulás!</Button>
-          <Button size="sm">Szervezők</Button>
+          <Link href="/">
+            <Button size="sm">Főoldal</Button>
+          </Link>
+          <Link href="http://muzeum18ker.hu">
+            <Button size="sm">Szervezők</Button>
+          </Link>
         </Group>
       </Container>
     </div>

@@ -42,7 +42,7 @@ export default function Header() {
     <HeaderBase height={MIN_HEADER_HEIGHT} sx={{ borderBottom: 0 }}>
       <Container className={classes.inner} fluid>
         <Link href="/">
-          <Text size={24} fw={700}>
+          <Text fw={700} className="text-base md:text-2xl">
             Újpéteritelep - Kincskeresés
           </Text>
         </Link>
