@@ -6,14 +6,14 @@ export default function Start() {
       <p>
         Így kezdődik a játék What is Lorem Ipsum? Lorem Ipsum is simply dummy
         text of the printing and typesetting industry. Lorem Ipsum has been the
-        industry's standard dummy text ever since the 1500s, when an
+        industry&apos;s standard dummy text ever since the 1500s, when an
       </p>
 
       <p>
         Most pedig folytatódik egy másik paragrafussal Így kezdődik a játék What
         is Lorem Ipsum? Lorem Ipsum is simply dummy text of the printing and
-        typesetting industry. Lorem Ipsum has been the industry's standard dummy
-        text ever since the 1500s, when an
+        typesetting industry. Lorem Ipsum has been the industry&apos;s standard
+        dummy text ever since the 1500s, when an
       </p>
 
       <p className="text-xl">"Ez most egy idézet és írott betűvel van."</p>
