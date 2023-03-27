@@ -1,6 +1,7 @@
 import { useRouter } from "next/router";
 import useSteps from "@hooks/useSteps";
 import { Button, Text } from "@mantine/core";
+import Link from "next/link";
 
 export default function StepPage() {
   const { getStep } = useSteps();
@@ -29,10 +30,12 @@ export default function StepPage() {
         <div className="text-center">
           <h2 className="text-center">Gratulálunk!</h2>
           <p className="text-center">
-            Teljesítetted a kincskeresést! A történet befejezésének
-            megtekintéséhez kattints az alábbi gombra.
+            Teljesítettétek a kincskeresést! A történet befejezésének
+            megtekintéséhez kattintsatok az alábbi gombra.
           </p>
-          <Button>Végeztem!</Button>
+          <Link href="/end">
+            <Button>A történet vége</Button>
+          </Link>
         </div>
       )}
     </div>

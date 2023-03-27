@@ -28,20 +28,7 @@ export default function Home() {
               délutánon éppen a konyhában tevékenykedett, mikor rájött egy sok
               fejfájást okozó halálos fülbetegség egy lehetséges gyógymódjára.
               Egyből az írógépéhez sietett, ahol elkezdte leírni, hogy hogyan is
-              kellene ezt megvalósítani. Ám abban a pillanatban ahogy végzett a
-              tanulmányának megírásával, sötét öltönyös emberek jelentek meg a
-              háta mögött akik el akarták fogni. Ezen emberek azzal a hátsó
-              szándékkal érkeztek, hogy elhallgattassák Krepuskát, mivel ezt a
-              vírust ők szabadították még a világra több mint 100 éve azzal a
-              céllal, hogy szép lassan elpusztítsák az emberiséget. Krepuska nem
-              tudott máshoz folyamodni, muszáj volt használja a még egyszer sem
-              tesztelt házi időgépét. Gyorsan belemászott és 2023-ba ugrott,
-              hogy megmentse az emberiséget ettől a szörnyű betegségtől.
-              Szerencsére minden jól ment és nem volt semmi mellékhatása az
-              időutazásának. Ám azt nem tudta, hogy ezek az emberek nem átlagos
-              emberek voltak. Ők sokkal tovább élnek mint mi, ezáltal még
-              2023-ban is jelen vannak. Ők elfogták és bezárták Krepuska Gézát
-              az Újpéteritelep valamelyik jellegzetes helyszínén.
+              kellene ezt megvalósítani.
             </p>
           </div>
         </div>
