@@ -22,16 +22,26 @@ export default function Home() {
           <div className="p-10 text-center">
             <span className="text-4xl font-bold">Történet</span>
             <p className="text-sm font-bold ">
-              What is Lorem Ipsum? Lorem Ipsum is simply dummy text of the
-              printing and typesetting industry. Lorem Ipsum has been the
-              industry&apos;s standard dummy text ever since the 1500s, when an
-              unknown printer took a galley of type and scrambled it to make a
-              type specimen book. It has survived not only five centuries, but
-              also the leap into electronic typesetting, remaining essentially
-              unchanged. It was popularised in the 1960s with the release of
-              Letraset sheets containing Lorem Ipsum passages, and more recently
-              with desktop publishing software like Aldus PageMaker including
-              versions of Lorem Ipsum.
+              Az 1900-as évek elején Krepuska Géza főleg fülgyógyászattal
+              foglalatoskodott. Sok idejét fektette a tudásának bővítésével, és
+              egyéni előadásokati is tartott az elért eredményeiről. Egy szép
+              délutánon éppen a konyhában tevékenykedett, mikor rájött egy sok
+              fejfájást okozó halálos fülbetegség egy lehetséges gyógymódjára.
+              Egyből az írógépéhez sietett, ahol elkezdte leírni, hogy hogyan is
+              kellene ezt megvalósítani. Ám abban a pillanatban ahogy végzett a
+              tanulmányának megírásával, sötét öltönyös emberek jelentek meg a
+              háta mögött akik el akarták fogni. Ezen emberek azzal a hátsó
+              szándékkal érkeztek, hogy elhallgattassák Krepuskát, mivel ezt a
+              vírust ők szabadították még a világra több mint 100 éve azzal a
+              céllal, hogy szép lassan elpusztítsák az emberiséget. Krepuska nem
+              tudott máshoz folyamodni, muszáj volt használja a még egyszer sem
+              tesztelt házi időgépét. Gyorsan belemászott és 2023-ba ugrott,
+              hogy megmentse az emberiséget ettől a szörnyű betegségtől.
+              Szerencsére minden jól ment és nem volt semmi mellékhatása az
+              időutazásának. Ám azt nem tudta, hogy ezek az emberek nem átlagos
+              emberek voltak. Ők sokkal tovább élnek mint mi, ezáltal még
+              2023-ban is jelen vannak. Ők elfogták és bezárták Krepuska Gézát
+              az Újpéteritelep valamelyik jellegzetes helyszínén.
             </p>
           </div>
         </div>
@@ -40,21 +50,21 @@ export default function Home() {
           <div className="p-10 text-center">
             <span className="text-4xl font-bold">A játékról</span>
             <p className="text-sm font-bold">
-              A játék célja, hogy megtaláljátok Krepuska Géza elrejtett kincsét
-              az Újpéteritelepen. A játékban állomásokat kell követni,
-              amelyekhez útmutatásokat és rejtélyeket adunk, hogy segítsenek
-              nektek megtalálni a következő helyszínt és végül a kincset. A
-              játék során a résztvevők körülbelül 45 perc alatt bejárják az
-              egész telepet, annak legfontosabb látványosságait. Minden állomás
-              egy-egy feladatot tartalmaz, amelynek megoldása után kapjátok meg
-              a következő utasítást. Az állomások változatosak és kihívást
-              jelenthetnek minden korosztálynak, azonban a játék elsősorban
-              családoknak ajánlott, akik együtt szeretnék felfedezni az
-              Újpéteritelepet. A játékot úgy terveztük, hogy az egész család
-              számára szórakoztató és érdekes legyen. A keresés során
-              felfedezhetitek az Újpéteritelep szépségeit és érdekességeit. Ha
-              szeretnétek kalandos és izgalmas időt tölteni Újpéteritelepen,
-              akkor várunk benneteket a kincskeresősjátékban!
+              A játék célja, hogy kiszabadítsátok Krepuska Gézát a fogságból. A
+              játékban állomásokat kell követni, amelyekhez útmutatásokat és
+              rejtélyeket adunk, hogy segítsenek nektek megtalálni a következő
+              helyszínt és végül Krepuska Gézát. A játék során a résztvevők
+              körülbelül 45 perc alatt bejárják az egész telepet, annak
+              legfontosabb látványosságait. Minden állomás egy-egy feladatot
+              tartalmaz, amelynek megoldása után kapjátok meg a következő
+              utasítást. Az állomások változatosak és kihívást jelenthetnek
+              minden korosztálynak, azonban a játék elsősorban családoknak
+              ajánlott, akik együtt szeretnék felfedezni az Újpéteritelepet. A
+              játékot úgy terveztük, hogy az egész család számára szórakoztató
+              és érdekes legyen. A keresés során felfedezhetitek az
+              Újpéteritelep szépségeit és érdekességeit. Ha szeretnétek kalandos
+              és izgalmas időt tölteni Újpéteritelepen, akkor várunk benneteket
+              a kincskeresősjátékban!
             </p>
           </div>
           <Image

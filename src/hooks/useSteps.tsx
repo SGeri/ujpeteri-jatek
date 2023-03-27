@@ -8,7 +8,7 @@ const steps = [
     id: 1,
     name: "Országzászló",
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.í",
+      "Krepuska Géza megérkezett a jelenbe, ahol meglátta a pestszentimrei országzászlót. Ezelőtt ezt ő még nem láthatta, mivel 1990-ben adták át a lakossági adományokból, önkéntes munka segítségével elkészült országzászlót. Ez volt az első és egyelőre utolsó benyomása az újkori Újpéteritelepről, mert elfogták és elhurcolták a gonosz emberek.",
     text: "A következő megálló a Sportkastély. És most menjetek és keressétek meg a következő nyomot!",
     hash: "54c381dad67e24a48cb2168e654d47f6",
   },
