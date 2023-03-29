@@ -97,11 +97,6 @@ export default function Hero() {
             Lássunk hozzá!
           </Button>
         </Link>
-
-        <Text color="red" mt="lg">
-          Fontos: Háttér cseréje a táblára a helyszínre, ahonnan a játékot
-          kezdeni lehet
-        </Text>
       </Container>
     </div>
   );
