@@ -6,7 +6,7 @@ import {
   Button,
   Text,
 } from "@mantine/core";
-import HeroImage from "@images/hero_bg.jpg";
+import HeroImage from "@images/hero_bg_v2.jpg";
 import Link from "next/link";
 
 const useStyles = createStyles((theme) => ({
