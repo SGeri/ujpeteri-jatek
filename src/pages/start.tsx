@@ -1,7 +1,7 @@
 export default function Start() {
   return (
     <div className="flex flex-col justify-center items-center sm:px-2 md:px-8 lg:px-40">
-      <h1>Kezdődjon a történetünk!</h1>
+      <h1>Kezdődjön a történetünk!</h1>
 
       <p>
         Szerencsére minden jól ment és nem volt semmi mellékhatása az
