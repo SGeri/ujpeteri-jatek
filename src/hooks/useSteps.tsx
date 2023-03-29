@@ -35,7 +35,7 @@ const steps = [
     id: 4,
     name: "Kiserdő",
     description:
-      "A rosszfiúk ezt a helyet szánták optimálisnak arra, hogy kiszedjék Krepuskából azt az információt, hogy hol rejtette el a titkos ellenszert. Krepuska pedig előbb lett volna kész meghalni, minthogy elmondja nekik. A fenyegetések ellenére ő teljesen hidegvérrel ült ott a földön megkötözve. Mikor közeledtek a kiserdőhöz, már halljátok Krepuska segítséget remélő kiáltásait. Elkezdtek futni, rohanni és megérkeztek a játszótérhez, ahol meglátjátok ott ülni őt, és a jövőbeli fickókat. A gonosztevők lelepleződtek, és mivel kitudódott kilétük, ezért egyszerűséggel megszűntek lézezni. Eloldozzátok Krepuskát, aki nagyon nagy hálálkodással esik nektek, mivel megmentettétek az életét és a világ életét is egyaránt.",
+      "A rosszfiúk ezt a helyet szánták optimálisnak arra, hogy kiszedjék Krepuskából azt az információt, hogy hol rejtette el a titkos ellenszert. Krepuska pedig előbb lett volna kész meghalni, minthogy elmondja nekik. A fenyegetések ellenére ő teljesen hidegvérrel ült ott a földön megkötözve. Mikor közeledtek a kiserdőhöz, már halljátok Krepuska segítséget remélő kiáltásait. Elkezdtek futni, rohanni és megérkeztek a játszótérhez, ahol meglátjátok ott ülni őt, és a jövőbeli fickókat. A gonosztevők lelepleződtek, és mivel kitudódott kilétük, ezért egyszerűséggel megszűntek létezni. Eloldozzátok Krepuskát, aki nagyon nagy hálálkodással esik nektek, mivel megmentettétek az életét és a világ életét is egyaránt.",
     hash: "3d6913c4a5edc8fec3ea115ad1f26872",
     final: true,
   },

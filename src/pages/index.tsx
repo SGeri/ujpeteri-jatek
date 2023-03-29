@@ -28,7 +28,15 @@ export default function Home() {
               délutánon éppen a konyhában tevékenykedett, mikor rájött egy sok
               fejfájást okozó halálos fülbetegség egy lehetséges gyógymódjára.
               Egyből az írógépéhez sietett, ahol elkezdte leírni, hogy hogyan is
-              kellene ezt megvalósítani.
+              kellene ezt megvalósítani. Ám abban a pillanatban, ahogy végzett a
+              tanulmányának megírásával, sötét öltönyös emberek jelentek meg a
+              háta mögött akik el akarták fogni. Ezen emberek azzal a hátsó
+              szándékkal érkeztek, hogy elhallgattassák Krepuskát, mivel ezt a
+              vírust ők szabadították még a világra több mint 100 éve azzal a
+              céllal, hogy szép lassan elpusztítsák az emberiséget. Krepuska nem
+              tudott máshoz folyamodni, muszáj volt használja a még egyszer sem
+              tesztelt házi időgépét. Gyorsan belemászott és 2023-ba ugrott,
+              hogy megmentse az emberiséget ettől a szörnyű betegségtől.
             </p>
           </div>
         </div>
@@ -37,21 +45,22 @@ export default function Home() {
           <div className="p-10 text-center">
             <span className="text-4xl font-bold">A játékról</span>
             <p className="text-sm font-bold">
-              A játék célja, hogy kiszabadítsátok Krepuska Gézát a fogságból. A
-              játékban állomásokat kell követni, amelyekhez útmutatásokat és
-              rejtélyeket adunk, hogy segítsenek nektek megtalálni a következő
-              helyszínt és végül Krepuska Gézát. A játék során a résztvevők
-              körülbelül 45 perc alatt bejárják az egész telepet, annak
-              legfontosabb látványosságait. Minden állomás egy-egy feladatot
-              tartalmaz, amelynek megoldása után kapjátok meg a következő
-              utasítást. Az állomások változatosak és kihívást jelenthetnek
-              minden korosztálynak, azonban a játék elsősorban családoknak
-              ajánlott, akik együtt szeretnék felfedezni az Újpéteritelepet. A
-              játékot úgy terveztük, hogy az egész család számára szórakoztató
-              és érdekes legyen. A keresés során felfedezhetitek az
-              Újpéteritelep szépségeit és érdekességeit. Ha szeretnétek kalandos
-              és izgalmas időt tölteni Újpéteritelepen, akkor várunk benneteket
-              a kincskeresősjátékban!
+              A játék célja, hogy kiszabadítsátok Krepuska Gézát az öltönyösök
+              karmai közül és megmentsétek a világot a gyógyír biztos kezekben
+              tartásával. A játékban állomásokat kell követnetek, amelyekhez
+              útmutatásokat és rejtélyeket adunk, hogy segítsenek nektek
+              megtalálni a következő helyszínt és végül Krepuska Gézát. A játék
+              során a résztvevők körülbelül 45 perc alatt bejárják az egész
+              telepet, annak legfontosabb látványosságait. Minden állomás
+              információt tartalmaz, amelyek segítségével a végén össze tudjátok
+              majd rakni a történetet. Az állomások változatosak és kihívást
+              jelenthetnek minden korosztálynak, azonban a játék elsősorban
+              családoknak ajánlott, akik együtt szeretnék felfedezni az
+              Újpéteritelepet. A játékot úgy terveztük, hogy az egész család
+              számára szórakoztató és érdekes legyen. A keresés során
+              felfedezhetitek az Újpéteritelep szépségeit és érdekességeit. Ha
+              szeretnétek kalandos és izgalmas időt tölteni Újpéteritelepen,
+              akkor várunk benneteket a kincskeresősjátékban!
             </p>
           </div>
           <Image

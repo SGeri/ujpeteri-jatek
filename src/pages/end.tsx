@@ -8,7 +8,7 @@ export default function End() {
         hálával tartozunk nektek ezért. Mindezen kalandok után még segítettetek
         Krepuskának visszajutni az Országzászlóhoz, ahol ő elővette az
         időgépének távirányítóját és visszaugrott az 1900-as évekbe. Itt véget
-        ért a játékunk, köszönjük a résztvételeteket, reméljük élveztétek.
+        ért a játékunk, reméljük élveztétek.
       </p>
 
       <p className="font-bold">Köszönjük, hogy részt vettetek a játékunkban!</p>
