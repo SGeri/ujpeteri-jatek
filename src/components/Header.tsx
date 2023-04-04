@@ -7,7 +7,7 @@ import {
   Text,
 } from "@mantine/core";
 
-const ORGANIZERS_LINK = "http://muzeum18ker.hu";
+const ORGANIZERS_LINK = "https://www.tomorylajos-muzeum.hu";
 const MIN_HEADER_HEIGHT = 80;
 
 const useStyles = createStyles((theme) => ({

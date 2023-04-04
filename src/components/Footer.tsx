@@ -42,7 +42,7 @@ export default function Footer() {
           <Link href="/">
             <Button size="sm">Főoldal</Button>
           </Link>
-          <Link href="http://muzeum18ker.hu">
+          <Link href="https://www.tomorylajos-muzeum.hu">
             <Button size="sm">Szervezők</Button>
           </Link>
         </Group>
