@@ -70,6 +70,21 @@ export default function Home() {
           />
         </div>
 
+        <div className="p-10 text-center">
+          <span className="text-4xl font-bold">A készítők</span>
+          <p className="text-sm font-bold">
+            A játékot a Karinthy Frigyes Gimnázium 9. osztályos tanulói
+            készítették el:
+            <ul className="text-xl">
+              <p className="m-1">Nagy-Kingl Ajna - játéktervezés</p>
+              <p className="m-1">Polyák Telma - játéktervezés</p>
+              <p className="m-1">Cservenák Botond - játéktervezés</p>
+              <p className="m-1">Fejes Levente Gábor - történetírás</p>
+              <p className="m-1">Sárffy Gergő - fejlesztés</p>
+            </ul>
+          </p>
+        </div>
+
         <div className="flex justify-center items-center mt-4">
           <Link href="/start">
             <Button variant="gradient" size="xl" radius="xl">
