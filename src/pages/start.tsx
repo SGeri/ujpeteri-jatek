@@ -4,8 +4,8 @@ export default function Start() {
       <h1>Kezdődjön a történetünk!</h1>
 
       <p>
-        Szerencsére minden jól ment és nem volt semmi mellékhatása az
-        időutazásának és Krepuska épségben megérkezett a jelenbe. Ám azt nem
+        Szerencsére minden jól ment, és nem volt semmi mellékhatása az
+        időutazásának. Krepuska épségben megérkezett a jelenbe. Ám azt nem
         tudta, hogy ezek az emberek nem átlagos emberek voltak. Ők sokkal tovább
         élnek mint mi, sőt még kedvük szerint tudnak is ugrálni az időben,
         ezáltal még jelen pillanatban is köztünk vannak beépülve. Ők elfogták és
@@ -18,7 +18,7 @@ export default function Start() {
         <br />
         Azt megtalálhatjátok az Országzászlónál. Ha odaértetek, figyelmesen
         keressetek egy QR kódot a zászlótól csupán néhány lépésre, majd
-        szekenneljétek be azt, hogy tovább haladjatok a történettel!
+        szekenneljétek be azt, hogy továbbhaladjatok a történettel!
       </p>
     </div>
   );
