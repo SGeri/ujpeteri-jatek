@@ -27,7 +27,7 @@ const steps = [
     name: "Luther-kápolna",
     description:
       "Hát ez a bizonyos harangszó nem jött máshonnan, mint a nem is olyan rég (2016-ban) átadott Luther kápolna felől. Ám ezek az urak vallásosak voltak, evangélikusak, akár csak a kápolna, amelyet még meg is áldott a Magyarországi Evangélikus Egyház elnök-püspöke. A jövőben, ahonnan ők jöttek, ott nagyon fontos a vallás az emberek számára, mert már nem maradt más, ami megszínesítse napjaikat. Mégsem hagyhatták volna, hogy saját istenük elítélje őket a múlt- és jelenbéli tetteikért, ezért azt tartották a legjobbnak, ha elbújnak az Isten szemei elől, és ott faggatják ki Krepuskát. Erre a célra egy felülről eltakart helyet kerestek, takaró objektumnak pedig a fák teljesen megfeleltek.",
-    text: "A földön újra vérnyomokat találtok. Kövessétek őket a Kiserdőig! Talán már végeztek is vele, mindenképp sietnetek kell, hogy még élve megtaláljátok az orvost!",
+    text: "A földön újra vérnyomokat találtok. Kövessétek őket a Kiserdőig (a Szálfa, Erdősáv utca kereszteződéséig)! Talán már végeztek is vele, mindenképp sietnetek kell, hogy még élve megtaláljátok az orvost!",
     hash: "14c5dcfc75844aec5899e8fd7532983d",
   },
   // https://ujpeteri-jatek.sarffy.dev/steps/3d6913c4a5edc8fec3ea115ad1f26872
@@ -35,7 +35,7 @@ const steps = [
     id: 4,
     name: "Kiserdő",
     description:
-      "A rosszfiúk ezt a helyet szánták optimálisnak arra, hogy kiszedjék Krepuskából azt az információt, hol rejtette el a titkos ellenszert. Krepuska pedig előbb lett volna kész meghalni, minthogy elmondja nekik. A fenyegetések ellenére ő teljesen hidegvérrel ült ott a földön megkötözve. Mikor közeledtek a kiserdőhöz (ía Szálfa, Erdősáv utca kereszteződéséig), már halljátok Krepuska segítséget remélő kiáltásait. Elkezdtek futni, rohanni, és megérkeztek az erdei ösvény kiindulópontjához, ahol meglátjátok ott ülni őt és a jövőbeli fickókat. A gonosztevők lelepleződtek, és mivel kitudódott kilétük, ezért egyszerűséggel megszűntek létezni. Eloldozzátok Krepuskát, aki nagyon nagy hálálkodással esik nektek, mivel megmentettétek az életét és a világ életét is egyaránt.",
+      "A rosszfiúk ezt a helyet szánták optimálisnak arra, hogy kiszedjék Krepuskából azt az információt, hol rejtette el a titkos ellenszert. Krepuska pedig előbb lett volna kész meghalni, minthogy elmondja nekik. A fenyegetések ellenére ő teljesen hidegvérrel ült ott a földön megkötözve. Mikor közeledtek a kiserdőhöz, már halljátok Krepuska segítséget remélő kiáltásait. Elkezdtek futni, rohanni, és megérkeztek az erdei ösvény kiindulópontjához, ahol meglátjátok ott ülni őt és a jövőbeli fickókat. A gonosztevők lelepleződtek, és mivel kitudódott kilétük, ezért egyszerűséggel megszűntek létezni. Eloldozzátok Krepuskát, aki nagyon nagy hálálkodással esik nektek, mivel megmentettétek az életét és a világ életét is egyaránt.",
     hash: "3d6913c4a5edc8fec3ea115ad1f26872",
     final: true,
   },
